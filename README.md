@@ -1,5 +1,5 @@
 # My website
-![logo](docs/mylogo.svg = 250x250)
+![logo](docs/mylogo.svg = 10x10)
 
 ## Contents
 

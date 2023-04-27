@@ -1,5 +1,7 @@
 # My website
-![logo](docs/mylogo.svg)
+<div style="width:60px ; height:60px">
+![logo](docs/mylogo.svg = 250x250)
+<div></div>
 
 ## Contents
 

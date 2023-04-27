@@ -1,7 +1,9 @@
 # My website
 <div style="width:60px ; height:60px">
-![logo](docs/mylogo.svg)
-<div></div>
+
+![logo](docs/mylogo.svg?raw=true "Self-made logo")
+
+<div>
 
 ## Contents
 

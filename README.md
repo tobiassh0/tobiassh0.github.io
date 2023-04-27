@@ -8,25 +8,25 @@
 ## Contents
 
 * Experience
-  [] 2nd & 3rd Year work
+-  [ ] 2nd & 3rd Year work
 * Publications
-  [] Solar Wind
-  [] JPPP
-  [] Three ions
+-  [ ] Solar Wind
+-  [ ] JPPP
+-  [ ] Three ions
 * Education
-  [] A-levels
-  [] University
-    [] Bachelors
-    [] Masters
-  [] PhD
-    [] Gifs of:
-      [] Two stream
-      [] 
-    [] Images of:
-      [] Cold
-      [] Two stream
-      [] Three ion D-T
-      [] Aneutronic
-      [] Poster?
+-  [ ] A-levels
+-  [ ] University
+-    [ ] Bachelors
+-    [ ] Masters
+-  [ ] PhD
+-    [ ] Gifs of:
+-      [ ] Two stream
+-      [ ] 
+-    [ ] Images of:
+-      [ ] Cold
+-      [ ] Two stream
+-      [ ] Three ion D-T
+-      [ ] Aneutronic
+-      [ ] Poster?
 * Skills and CV (public safe version)
 * Other notes

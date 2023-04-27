@@ -1,5 +1,5 @@
 # My website
-<div style="width:10px ; height:10px">
+<div style="width:60px ; height:60px">
 
 ![logo](docs/mylogo.svg?raw=true "Self-made logo")
 

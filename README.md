@@ -1,5 +1,5 @@
 # My website
-![logo](docs/mylogo.svg)
+![image](docs/mylogo.svg)
 
 ## Contents
 

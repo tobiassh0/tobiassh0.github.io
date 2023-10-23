@@ -12,9 +12,6 @@ redirect_from:
 </p>
 
 
-{% include base_path %}
-
-
 Education
 ======
 * Ph.D. in Fusion Energy, University of Warwick, 2025 (expected)
@@ -48,9 +45,9 @@ Skills
   * Matlab
   * C
   * VBA
-  * [JS](http://tobiassh0.github.io/files/boolean-certificate.pdf)
-  * [HTML](http://tobiassh0.github.io/files/boolean-certificate.pdf)
-  * [CSS](http://tobiassh0.github.io/files/boolean-certificate.pdf)
+  * [JS](http://tobiassh0.github.io/assets/data/boolean-certificate.pdf)
+  * [HTML](http://tobiassh0.github.io/assets/data/boolean-certificate.pdf)
+  * [CSS](http://tobiassh0.github.io/assets/data/boolean-certificate.pdf)
 * LaTeX
 * Data analysis
 * Git and github

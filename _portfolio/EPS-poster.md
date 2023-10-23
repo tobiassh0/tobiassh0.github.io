@@ -5,5 +5,5 @@ collection: portfolio
 date: 03-07-2023
 ---
 
-<object data="http://tobiassh0.github.io/files/poster_EPS2023_210623.pdf" type="application/pdf" width="700px" height="700px"></object>
-<p>Download the PDF <a href="http://tobiassh0.github.io/files/poster_EPS2023_210623.pdf">here</a>.</p>
+<object data="http://tobiassh0.github.io/assets/data/poster_EPS2023_210623.pdf" type="application/pdf" width="700px" height="700px"></object>
+<p>Download the PDF <a href="http://tobiassh0.github.io/assets/data/poster_EPS2023_210623.pdf">here</a>.</p>

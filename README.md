@@ -1,5 +1,7 @@
 # EDITED USING TEMPALTE FROM [MINIMAL](/home/space/phrmsf/Documents/tobiassh0.github.io/README.md), NOT [MINIMAL MISTAKES](https://github.com/mmistakes/minimal-mistakes)
 
+[check here for example](https://github.com/aldur/minima)
+
 # The Minimal theme
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)

@@ -1,9 +1,28 @@
-title: TWSH / Website
-name: Tobias Slade-Harajda
-logo: /assets/img/logo.png
-description: 3rd year Ph.D. student
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
-location: University of Warwick
+# Site Settings
+locale                   : "en-UK"
+title                    : "TWSH / Website"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Tobias Slade-Harajda"
+description              : "3rd Year Ph.D. student"
+url                      : https://tobiassh0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/tobiassh0.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "tobiassh0/tobiassh0.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "assets/img/logo.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "assets/img/logo.png"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+theme                    : jekyll-theme-minimal
+show_downloads           : true
+
+#title: TWSH / Website
+#name: Tobias Slade-Harajda
+#logo: /assets/img/logo.png
+#description: 3rd year Ph.D. student
+#show_downloads: true
+#google_analytics:
+#theme: jekyll-theme-minimal
+#location: University of Warwick
+#
 

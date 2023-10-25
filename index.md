@@ -21,6 +21,7 @@ See also my [university page](https://warwick.ac.uk/fac/sci/physics/research/cfs
 * [Publications](./publications.html)
 * [Teaching](./teaching.html)
 * [Portfolio](./portfolio.html)
+
 <!-- * <a href="http://tobiassh0.github.io/_pages/cv.html">CV</a>
 * <a href="http://tobiassh0.github.io/_pages/cv.html">Talk</a>
 * <a href="http://tobiassh0.github.io/_pages/publications.html">Publications</a>
@@ -30,8 +31,13 @@ See also my [university page](https://warwick.ac.uk/fac/sci/physics/research/cfs
 
 ### Other links
 
-<a href="https://github.com/tobiassh0"><img src="./assets/social-icons/github.png" alt="GitHub" style="width:50px;height:50px;"></a>
+<div class="row">
+  <div class="column">
+    <a href="https://github.com/tobiassh0"><img src="./assets/social-icons/github.png" alt="GitHub" style="width:50px;height:50px;"></a>
+  </div>
+  <div class="column">
+    <a href="https://www.linkedin.com/in/tobias-slade-harajda-50a496192/"><img src="./assets/social-icons/linkedin.png" alt="LinkedIn" style="width:50px;height:50px;"></a>
+  </div>
+</div>
 
-<a href="https://www.linkedin.com/in/tobias-slade-harajda-50a496192/"><img src="./assets/social-icons/linkedin.png" alt="LinkedIn" style="width:50px;height:50px;"></a>
 
-<a href="https://www.google.co.uk"><img src="./assets/social-icons/link.png" alt="other" style="width:50px;height:50px;"></a>

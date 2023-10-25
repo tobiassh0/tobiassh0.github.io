@@ -8,4 +8,4 @@ author_profile: true
 
 Collection of images and videos created throughout my thesis that are interesting enough to share.
 
-[home](./)
+[Home](./)

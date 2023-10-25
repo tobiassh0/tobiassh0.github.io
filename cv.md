@@ -6,6 +6,7 @@ author_profile: true
 
 ## My Curriculum Vitae
 
+[Home](./)
 
 Education
 ======
@@ -90,5 +91,3 @@ Teaching
 ======
 * Currently signed in to 43 different slack teams
  -->
-
-[Home](./)

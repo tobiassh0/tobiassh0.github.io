@@ -10,7 +10,7 @@ author_profile: true
 Talks
 ======
 - **FuseNet Ph.D. pechakucha talk 23/08/2023** ([here](./assets/data/PechaKucha2023.pdf))
-	- Talk to the wider Ph.D. FuseNet community for their [2023 Ph.D. event](https://indico.fusenet.eu/event/47/) at the EPFL Swiss plasma centre in a PechaKucha style talk and through the delivery of a [poster (see EPS 2023 poster). Summarised my project, the results and some future work.
+	- Talk to the wider Ph.D. FuseNet community for their [2023 Ph.D. event](https://indico.fusenet.eu/event/47/) at the EPFL Swiss plasma centre in a PechaKucha style talk and through the delivery of a poster (see EPS 2023 poster). Summarised my project, the results and some future work.
 - **Departmental talk 19/06/2023** ([here](./assets/data/CFSA-Seminar-190623.pdf))
 	- Follow up talk to the CFSA department detailing my project progress and some prelimiary results from including a third ion in the PIC code EPOCH on [JET pulse 26148](./assets/data/ICE_Cottrell_1993_Nucl_Fusion_33_1365.pdf).
 - **Postgraduate talk 29/09/2022** ([here](./assets/data/PG-Seminar-290922.mp4))

@@ -6,10 +6,6 @@ author_profile: true
 
 ## My Curriculum Vitae
 
-<p align="center">
-  <img src='/images/logo.png'>
-</p>
-
 
 Education
 ======
@@ -73,6 +69,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  -->  
+
 Talks
 ======
 [here](./talks.html)
@@ -80,6 +77,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
  -->  
+
 Teaching
 ======
 [here](./teaching.html)
@@ -93,4 +91,4 @@ Teaching
 * Currently signed in to 43 different slack teams
  -->
 
-[back](./)
+[Home](./)

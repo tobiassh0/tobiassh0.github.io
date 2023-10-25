@@ -15,4 +15,4 @@ Teaching & tutoring
 	- Tutored GCSE and A-level students in Maths and Physics. As a result of the pandemic many students were left disadvantaged and schools as a result hired private tutors through MyTutor. Wrote a [reflective piece](./assets/data/reflective-piece-tobias.pdf) on teaching UGs at university and referenced often my experience with tutoring students throughout the pandemic.
 
 
-[back](./)
+[Home](./)

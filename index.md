@@ -16,7 +16,7 @@ See also my [university page](https://warwick.ac.uk/fac/sci/physics/research/cfs
 
 ## Contents
 
-* [Curriculum vitate](./cv.html)
+* [Curriculum vitae](./cv.html)
 * [Talks & posters](./talks.html)
 * [Publications](./publications.html)
 * [Teaching](./teaching.html)

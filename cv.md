@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Curriculum vitate"
+title: "Curriculum vitae"
 author_profile: true
 ---
 

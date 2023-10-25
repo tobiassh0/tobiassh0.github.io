@@ -27,8 +27,11 @@ See also my [university page](https://warwick.ac.uk/fac/sci/physics/research/cfs
 * <a href="http://tobiassh0.github.io/_pages/Teaching.html">Teaching</a>
 * <a href="http://tobiassh0.github.io/_pages/portfolio.html">Port</a>
  -->
+
 ### Other links
 
-<a href="https://github.com/tobiassh0"><img src="./assets/social-icons/github.svg" alt="GitHub" style="width:50px;height:50px;"></a>
+<a href="https://github.com/tobiassh0"><img src="./assets/social-icons/github.png" alt="GitHub" style="width:50px;height:50px;"></a>
 
-<a href="https://www.linkedin.com/in/tobias-slade-harajda-50a496192/"><img src="./assets/social-icons/linkedin.svg" alt="LinkedIn" style="width:50px;height:50px;"></a>
+<a href="https://www.linkedin.com/in/tobias-slade-harajda-50a496192/"><img src="./assets/social-icons/linkedin.png" alt="LinkedIn" style="width:50px;height:50px;"></a>
+
+<a href="https://www.google.co.uk"><img src="./assets/social-icons/link.png" alt="other" style="width:50px;height:50px;"></a>

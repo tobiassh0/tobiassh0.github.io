@@ -24,9 +24,9 @@ See also my [university page](https://warwick.ac.uk/fac/sci/physics/research/cfs
 
 ### Other links
 
-<img src="/includes/social-icons/github.svg" alt="GitHub" url="https://github.com/tobiassh0" style="width:50px;height:50px;">
+<a href="https://github.com/tobiassh0"><img src="/includes/social-icons/github.svg" alt="GitHub" style="width:50px;height:50px;"></a>
 
-<img src="/includes/social-icons/linkedin.svg" alt="LinkedIn" url="https://www.linkedin.com/in/tobias-slade-harajda-50a496192/" style="width:50px;height:50px;">
+<a href="https://www.linkedin.com/in/tobias-slade-harajda-50a496192/"><img src="/includes/social-icons/linkedin.svg" alt="LinkedIn" style="width:50px;height:50px;"></a>
 
 <!-- [Link to curriculum vitae](./pages/cv.html)
 

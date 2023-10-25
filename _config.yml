@@ -4,7 +4,7 @@ author:
     name : Tobias Slade-Harajda
     email : tobias.slade-harajda@warwick.ac.uk
 description : 3rd Year Ph.D. student
-logo : /assets/img/logo.png
+logo : /assets/img/profile.png
 locale : "en-UK"
 title_separator : "-"
 subtitle : # site tagline that appears below site title in masthead
@@ -12,6 +12,13 @@ url : https://tobiassh0.github.io # the base hostname & protocol for your site e
 words_per_minute : 200
 theme : jekyll-theme-minimal
 show_downloads           : true
+linkedin : "https://www.linkedin.com/in/tobias-slade-harajda-50a496192/"
+orcid : "https://orcid.org/0000-0002-4993-0757"
+github : "tobiassh0"
+include :
+  - _pages
+repository : "tobiassh0/tobiassh0.github.io"
+
 
 #show_downloads: true
 #google_analytics:

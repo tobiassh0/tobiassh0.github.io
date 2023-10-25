@@ -6,6 +6,11 @@ author_profile: true
 
 ## My Curriculum Vitae
 
+<p align="center">
+  <img src='/images/logo.png'>
+</p>
+
+
 Education
 ======
 * Ph.D. in Fusion Energy, University of Warwick, 2025 (expected)
@@ -47,8 +52,8 @@ Skills
 * Git and github
 * Research and data management
 * HPC and large data
-* [Presenter](./pages/talks.html)
-* Writing/editing/publishing [papers](./pages/publications.html)
+* [Presenter](./talks.html)
+* Writing/editing/publishing [papers](./publications.html)
 * Running simulations
   * Plasma & Fusion
 * Languages
@@ -63,21 +68,21 @@ Skills
  
 Publications
 ======
-[here](./pages/publications.html)
+[here](./publications.html)
 <!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  -->  
 Talks
 ======
-[here](./pages/talks.html)
+[here](./talks.html)
 <!--   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
  -->  
 Teaching
 ======
-[here](./pages/teaching.html)
+[here](./teaching.html)
 <!--   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

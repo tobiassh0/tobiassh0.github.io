@@ -16,22 +16,22 @@ See also my [university page](https://warwick.ac.uk/fac/sci/physics/research/cfs
 
 ## Contents
 
-* [Curriculum vitate](./pages/cv.html)
-* [Talks & posters](./pages/talks.html)
-* [Publications](./pages/publications.html)
-* [Teaching](./pages/teaching.html)
-* [Portfolio](./pages/portfolio.html)
-* <a href="http://tobiassh0.github.io/pages/cv.html">CV</a>
-* <a href="http://tobiassh0.github.io/pages/cv.html">Talk</a>
-* <a href="http://tobiassh0.github.io/pages/publications.html">Publications</a>
-* <a href="http://tobiassh0.github.io/pages/Teaching.html">Teaching</a>
-* <a href="http://tobiassh0.github.io/pages/portfolio.html">Port</a>
+* [Curriculum vitate](./cv.html)
+* [Talks & posters](./talks.html)
+* [Publications](./publications.html)
+* [Teaching](./teaching.html)
+* [Portfolio](./portfolio.html)
+* <a href="http://tobiassh0.github.io/_pages/cv.html">CV</a>
+* <a href="http://tobiassh0.github.io/_pages/cv.html">Talk</a>
+* <a href="http://tobiassh0.github.io/_pages/publications.html">Publications</a>
+* <a href="http://tobiassh0.github.io/_pages/Teaching.html">Teaching</a>
+* <a href="http://tobiassh0.github.io/_pages/portfolio.html">Port</a>
 
 ### Other links
 
-<a href="https://github.com/tobiassh0"><img src="/includes/social-icons/github.svg" alt="GitHub" style="width:50px;height:50px;"></a>
+<a href="https://github.com/tobiassh0"><img src="./assets/social-icons/github.svg" alt="GitHub" style="width:50px;height:50px;"></a>
 
-<a href="https://www.linkedin.com/in/tobias-slade-harajda-50a496192/"><img src="/includes/social-icons/linkedin.svg" alt="LinkedIn" style="width:50px;height:50px;"></a>
+<a href="https://www.linkedin.com/in/tobias-slade-harajda-50a496192/"><img src="./assets/social-icons/linkedin.svg" alt="LinkedIn" style="width:50px;height:50px;"></a>
 
 <!-- [Link to curriculum vitae](./pages/cv.html)
 

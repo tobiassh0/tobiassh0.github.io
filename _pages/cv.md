@@ -6,8 +6,6 @@ author_profile: true
 
 ## My Curriculum Vitae
 
-_info here_
-
 <p align="center">
   <img src='/images/logo.png'>
 </p>

@@ -9,7 +9,7 @@ author_profile: true
 
 Thesis
 ======
-Refer to [warwick wrap](https://wrap.warwick.ac.uk) for my thesis (exp. 2025)
+Refer to [warwick wrap](https://wrap.warwick.ac.uk) for my thesis (exp. 2025). Or, download the most up-to-date version from overleaf [here](https://www.overleaf.com/download/project/641831a645139c7918c2111d/build/18b66e1fa90-912c7f0974d5943c/output/output.pdf?compileGroup=priority&clsiserverid=clsi-pre-emp-c2d-c-f-x9f2&enable_pdf_caching=true&popupDownload=true).
 
 
 First author papers

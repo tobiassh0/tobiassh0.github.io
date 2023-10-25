@@ -21,6 +21,11 @@ See also my [university page](https://warwick.ac.uk/fac/sci/physics/research/cfs
 * [Publications](./pages/publications.html)
 * [Teaching](./pages/teaching.html)
 * [Portfolio](./pages/portfolio.html)
+* <a href="http://tobiassh0.github.io/pages/cv.html">CV</a>
+* <a href="http://tobiassh0.github.io/pages/cv.html">Talk</a>
+* <a href="http://tobiassh0.github.io/pages/publications.html">Publications</a>
+* <a href="http://tobiassh0.github.io/pages/Teaching.html">Teaching</a>
+* <a href="http://tobiassh0.github.io/pages/portfolio.html">Port</a>
 
 ### Other links
 

@@ -13,14 +13,14 @@ Collection of images and videos created throughout my thesis that are interestin
   <img src='./assets/img/plots/FT_2d_and_power_v_gr.png'>
 </p>
 
-### $k_\perp v_A$ dispersion as a function of $\xi_T$
+### Cold plasma dispersion as a function of Tritium concentration
 <p align="center">
   <img src='./assets/img/plots/xi2_kperpVA.png'>
 </p>
 
 ### Pearsons cross-correlation
 <p align="center">
-  <img src='./assets/img/plots/PearsonsCrossCoef.png'>
+  <img src='./assets/img/plots/PearsonsCorrCoef.png'>
 </p>
 
 ### Gyro-resonance

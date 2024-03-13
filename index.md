@@ -31,15 +31,15 @@ See also my [university page](https://warwick.ac.uk/fac/sci/physics/research/cfs
 
 ### Other links
 
-<div class="row">
-  <div class="column">
+<div class="column">
+  <div class="row">
     <a href="https://github.com/tobiassh0"><img src="./assets/social-icons/github.png" alt="GitHub" style="width:50px;height:50px;"></a>
   </div>
-  <div class="column">
+  <div class="row">
     <a href="https://www.linkedin.com/in/tobias-slade-harajda-50a496192/"><img src="./assets/social-icons/linkedin.png" alt="LinkedIn" style="width:50px;height:50px;"></a>
   </div>
-  <div class="column">
-    <a href=""><img src="./assets/social-icons/orcid.png" alt="ORCID" style="width:50px;height:50px;"></a>
+  <div class="row">
+    <a href="https://orcid.org/0000-0002-4993-0757"><img src="./assets/social-icons/orcid.png" alt="ORCID" style="width:50px;height:50px;"></a>
   </div>
 </div>
 

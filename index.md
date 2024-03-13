@@ -38,6 +38,9 @@ See also my [university page](https://warwick.ac.uk/fac/sci/physics/research/cfs
   <div class="column">
     <a href="https://www.linkedin.com/in/tobias-slade-harajda-50a496192/"><img src="./assets/social-icons/linkedin.png" alt="LinkedIn" style="width:50px;height:50px;"></a>
   </div>
+  <div class="column">
+    <a href=""><img src="./assets/social-icons/orcid.png" alt="ORCID" style="width:50px;height:50px;"></a>
+  </div>
 </div>
 
 

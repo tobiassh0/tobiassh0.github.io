@@ -9,6 +9,7 @@ author_profile: true
 
 Talks
 ======
+- **ARCHER2 Celebration of Science**
 - **FuseNet Ph.D. pechakucha talk 23/08/2023** ([here](./assets/data/PechaKucha2023.pdf))
 	- Talk to the wider Ph.D. FuseNet community for their [2023 Ph.D. event](https://indico.fusenet.eu/event/47/) at the EPFL Swiss plasma centre in a PechaKucha style talk and through the delivery of a poster (see EPS 2023 poster). Summarised my project, the results and some future work.
 - **Departmental talk 19/06/2023** ([here](./assets/data/CFSA-Seminar-190623.pdf))
@@ -20,7 +21,9 @@ Talks
 
 Posters
 ======
-- **EPS poster** ([here](./assets/data/poster_EPS2023_210623.pdf))
+- **ARCHER2 Celebration of Science** ([here](https://doi.org/10.5281/zenodo.10849452))
+	- Delivered at the [2024 Celebration of Science](https://www.archer2.ac.uk/community/events/celebration-of-science-2024/) event in Edinburgh to professionals across a range of STEM disciplines who all use ARCHER2.
+- **EPS poster** ([here](./assets/data/poster_EPS2023_210623.pdf)
 	- Delivered at the [2023 EPS](https://epsplasma2023.eu) conference where I shared my work on three ions in the PIC code EPOCH, frequency offsets and gyro-resonance.
 - **Physics department poster**
 	- Poster delivered to my peers and academics within the department to display progress of work thus far on the implementation of three ions within PIC code EPOCH as well as some early analysis of power spectra results.

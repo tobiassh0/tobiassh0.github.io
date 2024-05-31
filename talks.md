@@ -9,7 +9,10 @@ author_profile: true
 
 Talks
 ======
-- **ARCHER2 Celebration of Science**
+- **Departmental talk 29/04/2024** ([here](./assets/data/shared-area.pdf))
+	- Presentated my development of the [shared area method](./assets/data/CFSA-Seminar-190623.pdf). Discussed theory, use cases, and examples of real data including ICE power spectra, helioseismology & financial data.
+- **ARCHER2 Celebration of Science 07/03/2024**
+	- ARCHER2 (HPC) celebration of science event in Edinburgh. Short summary presentation on DT three ion work with a more detailed poster session to a range of STEM disciplines
 - **FuseNet Ph.D. pechakucha talk 23/08/2023** ([here](./assets/data/PechaKucha2023.pdf))
 	- Talk to the wider Ph.D. FuseNet community for their [2023 Ph.D. event](https://indico.fusenet.eu/event/47/) at the EPFL Swiss plasma centre in a PechaKucha style talk and through the delivery of a poster (see EPS 2023 poster). Summarised my project, the results and some future work.
 - **Departmental talk 19/06/2023** ([here](./assets/data/CFSA-Seminar-190623.pdf))
@@ -21,9 +24,9 @@ Talks
 
 Posters
 ======
-- **ARCHER2 Celebration of Science** ([here](https://doi.org/10.5281/zenodo.10849452))
+- **ARCHER2 Celebration of Science 07/03/2024** ([here](https://doi.org/10.5281/zenodo.10849452))
 	- Delivered at the [2024 Celebration of Science](https://www.archer2.ac.uk/community/events/celebration-of-science-2024/) event in Edinburgh to professionals across a range of STEM disciplines who all use ARCHER2.
-- **EPS poster** ([here](./assets/data/poster_EPS2023_210623.pdf)
+- **EPS poster** ([here](./assets/data/poster_EPS2023_210623.pdf))
 	- Delivered at the [2023 EPS](https://epsplasma2023.eu) conference where I shared my work on three ions in the PIC code EPOCH, frequency offsets and gyro-resonance.
 - **Physics department poster**
 	- Poster delivered to my peers and academics within the department to display progress of work thus far on the implementation of three ions within PIC code EPOCH as well as some early analysis of power spectra results.

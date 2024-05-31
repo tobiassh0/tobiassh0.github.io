@@ -33,5 +33,14 @@ Collection of images and videos created throughout my thesis that are interestin
   <img src='./assets/img/plots/FT_2d_doppler_all.png'>
 </p>
 
+### Growth rates as a function of frequency and tritium concentration
+<p align="center">
+  <img src='./assets/img/plots/freq_xiT_growth_all.png'>
+</p>
+
+### Peak growth rates as a function of frequency and tritium concentration
+<p align="center">
+  <img src='./assets/img/plots/freq_xiT_growth_peaks_Nperw_10.png'>
+</p>
 
 [Home](./)

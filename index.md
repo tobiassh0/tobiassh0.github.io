@@ -6,7 +6,7 @@ layout: default
   <img src='./assets/img/logo.png'>
 </p>
 
-My name is Tobias Slade-Harajda and I am a 3rd year Ph.D. student studying at the University of Warwick looking at simulated fusion plasmas and primarily measuring the effect of the tertiary ion concentration on the measured ion cyclotron emission (ICE) in D-T and aneutronic D-He3 plasmas.
+My name is Tobias Slade-Harajda and I am a 4th year Ph.D. student studying at the University of Warwick looking at simulated fusion plasmas and primarily measuring the effect of the tertiary ion concentration on the measured ion cyclotron emission (ICE) in D-T and aneutronic D-He3 plasmas.
 
 ICE is a suprathermal emission brought on by instabilities within a fusion plasma. In its linear instability phase, the excitation mechanism for ICE is the magnetoacoustic cyclotron instability (MCI). As ICE is a passive diagnostic tool for fast ion physics, it is highly advantageous to apply knowledge gained from observing ICE to magnetically confined fusion (MCF) plasmas with the aim to improve tokamak efficiency and maintain the thermonuclear burn.
 

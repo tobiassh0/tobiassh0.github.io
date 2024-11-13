@@ -9,14 +9,16 @@ author_profile: true
 
 Thesis
 ======
-Refer to [warwick wrap](https://wrap.warwick.ac.uk) for my thesis (exp. 2025). Or, download the most up-to-date version from overleaf [here](https://www.overleaf.com/download/project/641831a645139c7918c2111d/build/18b66e1fa90-912c7f0974d5943c/output/output.pdf?compileGroup=priority&clsiserverid=clsi-pre-emp-c2d-c-f-x9f2&enable_pdf_caching=true&popupDownload=true).
+Refer to [warwick wrap](https://wrap.warwick.ac.uk) for my thesis (exp. 2025).
 
 
 First author papers
 ======
-- **Linear Maxwell-Vlasov in tritium mix <i>DT</i> fusion plasmas** ([here](./assets/img/under-review.png))
-- **PIC simulations of aneutronic <i>D−3He</i> fusion plasmas** ([here](./assets/img/under-review.png))
-- **Three ions (<i>DT-alpha</i>) in JET 26148** ([here](./assets/img/under-review.png)) 
+- **Effects of deuterium-tritium mix on the growth rates of the magnetoacoustic cyclotron instability in magnetised fusion plasmas** ([here](./assets/img/under-review.png))
+
+- **Simulations of ion cyclotron emission from highly energetic fusion-born protons in future aneutronic deuterium-helium-3 plasmas** ([here](./assets/img/under-review.png))
+
+- **The consequences of tritium mix for simulated ion cyclotron emission spectra from deuterium-tritium plasmas** ([here](https://iopscience.iop.org/article/10.1088/1741-4326/ad8244/meta))
 	- **Abstract** : Measurements of ion cyclotron emission (ICE) are obtained from most large magnetically confined fusion (MCF) plasma experiments, and may be used in future to quantify properties of the fusion-born alpha-particle population in deuterium-tritium (DT) plasmas in ITER. ICE is driven by spatially localised, strongly non-Maxwellian, minority energetic ion populations which relax collectively under the magnetoacoustic cyclotron instability (MCI). ICE spectral peaks are typically observed at, near, or separated by, integer harmonics of the energetic ion cyclotron frequency. Here, for the first time, we study how simulated ICE spectra from DT plasmas vary with tritium concentration and compare with an observed JET DT ICE spectrum. We incorporate a population of thermal tritons, in addition to thermal deuterons and an energetic minority population of fusion-born alpha-particles, in simulations with the kinetic particle-in-cell (PIC) code EPOCH. This code has previously been used extensively for interpretation of ICE observations in terms of the self-consistent gyro-resolved collective Maxwell-Lorentz dynamics of tens of millions of simulation particles. Our simulation parameters are relevant to the ICE-generative outer midplane edge region of JET DT plasma 26148, which included 11% tritium. Quantifying the variation of simulated ICE power spectra with tritium concentration reveals that our simulation with 11% tritium concentration most accurately represents the observed ICE spectrum from this plasma. This outcome is encouraging for the diagnostic application of ICE to fusion plasmas containing two thermal ion species, including future DT plasmas. 
 
 	<p><b>Recommended citation</b>: Slade-Harajda, Tobias (2024). "The consequences of varying tritium mix for simulated ion cyclotron emission spectra from deuterium-tritium plasmas" *Nucl. Fusion*</p>

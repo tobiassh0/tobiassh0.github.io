@@ -21,6 +21,7 @@ See also my [university page](https://warwick.ac.uk/fac/sci/physics/research/cfs
 * [Publications](./publications.html)
 * [Teaching](./teaching.html)
 * [Portfolio](./portfolio.html)
+* [Random Sudoku game](./sudoku-game.html)
 
 <!-- * <a href="http://tobiassh0.github.io/_pages/cv.html">CV</a>
 * <a href="http://tobiassh0.github.io/_pages/cv.html">Talk</a>

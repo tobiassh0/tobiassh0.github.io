@@ -10,13 +10,13 @@ author_profile: true
 
 Education
 ======
-* Ph.D. in Fusion Energy, University of Warwick, 2025 (expected)
+* Ph.D. in Fusion Energy, University of Warwick, Oct 2021 - Mar 2025
 * M.Phys. in Physics with Astrophysics - 1st class, 2017-2021
 * A-levels : A\*AA in Maths, Physics and Economics respectively, 2015-2017
 
 Work experience
 ======
-* __Graduate Teaching Assistant (GTA)__, Oct 2021 - present
+* __Graduate Teaching Assistant (GTA)__, Oct 2021 - Oct 2024
   * Aided in the teaching of UG laboratories, teaching 1st year students: how to conduct experiments, the principle of remaining scientifically rigorous, how to write a lab report and the principle of Fourier analysis.
 
 * __MyTutor__ , May - Jul 2021
@@ -34,7 +34,7 @@ Skills
 ======
 * Coding (in order of experience)
   * Python
-    * Pandas, numpy, scipy, ...
+    * Pandas, NumPy, SciPy, Scikit-learn, Tensorflow
     * Multiprocessing/Parallelisation
     * Machine Learning
   * Bash

@@ -9,6 +9,8 @@ author_profile: true
 
 Talks
 ======
+- **FuseNet Ph.D. pechakucha talk 03/09/2024** ([here](./assets/data/aneutronic_PechaKucha2024.pdf))
+	- Presented another pechakucha talk in Stuttgart, Germany for the [2024 FuseNet Ph.D. event](https://fusenet.eu/event/fusenet-phd-event-2024)
 - **Departmental talk 29/04/2024** ([here](./assets/data/shared-area.pdf))
 	- Presentated my development of the [shared area method](./assets/data/CFSA-Seminar-190623.pdf). Discussed theory, use cases, and examples of real data including ICE power spectra, helioseismology & financial data.
 - **ARCHER2 Celebration of Science 07/03/2024**
@@ -24,6 +26,8 @@ Talks
 
 Posters
 ======
+- **APS-DPP poster 10/10/2024** ([here](./assets/data/poster_APS2024_10112024.pdf))
+	- Delivered at the [2024 American Physical Soceity Division of Plasma Physics](https://engage.aps.org/dpp/meetings/annual-meeting) conference hosted in Atlanta, Georgia, USA between 03-11/10/2024. Here I shared my recent work on aneutronic deuterium-helium-3 PIC simulations.
 - **ARCHER2 Celebration of Science 07/03/2024** ([here](https://doi.org/10.5281/zenodo.10849452))
 	- Delivered at the [2024 Celebration of Science](https://www.archer2.ac.uk/community/events/celebration-of-science-2024/) event in Edinburgh to professionals across a range of STEM disciplines who all use ARCHER2.
 - **EPS poster** ([here](./assets/data/poster_EPS2023_210623.pdf))

@@ -9,7 +9,7 @@ author_profile: true
 
 Thesis
 ======
-Refer to [warwick wrap](https://wrap.warwick.ac.uk) for my thesis (exp. 2025).
+Refer to [warwick wrap](https://wrap.warwick.ac.uk) for my thesis (exp. 2025) or download a draft copy [here](./assets/data/PhD_Thesis_TobiasSladeHarajda_watermark.pdf).
 
 
 First author papers
